@@ -34,7 +34,7 @@
     "front-matter": "^4.0.1",
     "husky": "4.2.5",
     "lato-font": "^3.0.0",
-    "loader-utils": "^0.2.9",
+    "loader-utils": "^3.2.1",
     "markdown-it": "^11.0.0",
     "markdown-it-html5-media": "^0.6.0",
     "node-sass": "^4.14.0",
@@ -43,7 +43,7 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "react-app-rewired": "2.1.6",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^5.0.1",
     "redux-logger": "3.0.6",
     "sitemap-webpack-plugin": "0.7.1"
   },
