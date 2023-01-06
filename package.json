@@ -34,7 +34,7 @@
     "front-matter": "^4.0.1",
     "husky": "4.2.5",
     "lato-font": "^3.0.0",
-    "loader-utils": "^0.2.9",
+    "loader-utils": "^3.2.1",
     "markdown-it": "^11.0.0",
     "markdown-it-html5-media": "^0.6.0",
     "node-sass": "^4.14.0",
